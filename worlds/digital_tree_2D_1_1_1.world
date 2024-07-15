@@ -22,7 +22,7 @@
     <scene>
             <ambient>1 1 1 1</ambient>
             <background>0.2 0.5 0.7 1</background>
-            <shadows>1</shadows>
+            <shadows>0</shadows>
         </scene>
     <spherical_coordinates>
             <surface_model>EARTH_WGS84</surface_model>
@@ -38,6 +38,12 @@
             <iterations>167975</iterations>
             <light name="sun">
                 <pose frame="">0 0 10 0 -0 0</pose>
+            </light>
+            <light type="directional" name="light1">
+                <pose>0 0 50 0 0 0</pose>
+                <diffuse>0.5 0.5 0.5 1</diffuse>
+                <specular>1 1 1 0</specular>
+                <direction>1 0 0.5</direction>
             </light>
 
             <model name="digital_tree">
@@ -123,7 +129,7 @@
                     <pose frame="">0 0 0 0 -0 0</pose>
                     <inertial>
                     <pose frame="">0 0 0 0 -0 0</pose>
-                    <mass>50</mass>
+                    <mass>1</mass>
                     <inertia>
                         <ixx>1000</ixx>
                         <ixy>1000</ixy>
