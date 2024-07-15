@@ -1,0 +1,660 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1920,
+        "width": 1081
+    },
+    "objects": [
+        {
+            "id": 1577856401,
+            "classId": 13239098,
+            "objectId": null,
+            "description": "1",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Tennis_ball",
+            "points": {
+                "exterior": [
+                    [
+                        33,
+                        166
+                    ],
+                    [
+                        102,
+                        241
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856402,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "2",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        523,
+                        180
+                    ],
+                    [
+                        574,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856403,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "3",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        986,
+                        192
+                    ],
+                    [
+                        1043,
+                        252
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856404,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "4",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        477
+                    ],
+                    [
+                        104,
+                        541
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856405,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "5",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        516,
+                        471
+                    ],
+                    [
+                        574,
+                        528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856406,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "6",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        991,
+                        472
+                    ],
+                    [
+                        1042,
+                        521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856407,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "7",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        41,
+                        758
+                    ],
+                    [
+                        104,
+                        809
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856408,
+            "classId": 13239098,
+            "objectId": null,
+            "description": "8",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Tennis_ball",
+            "points": {
+                "exterior": [
+                    [
+                        514,
+                        752
+                    ],
+                    [
+                        578,
+                        814
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856409,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "9",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        977,
+                        763
+                    ],
+                    [
+                        1042,
+                        823
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856410,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "10",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        48,
+                        1047
+                    ],
+                    [
+                        96,
+                        1090
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856411,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "11",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        1053
+                    ],
+                    [
+                        577,
+                        1115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856412,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "12",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        980,
+                        1049
+                    ],
+                    [
+                        1038,
+                        1102
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856413,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "13",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        1326
+                    ],
+                    [
+                        105,
+                        1395
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856414,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "14",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        515,
+                        1329
+                    ],
+                    [
+                        570,
+                        1383
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856415,
+            "classId": 13239098,
+            "objectId": null,
+            "description": "15",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Tennis_ball",
+            "points": {
+                "exterior": [
+                    [
+                        975,
+                        1325
+                    ],
+                    [
+                        1043,
+                        1391
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856416,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "16",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        282,
+                        19
+                    ],
+                    [
+                        355,
+                        111
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856417,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "17",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        675,
+                        21
+                    ],
+                    [
+                        723,
+                        82
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856418,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "18",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        320,
+                        409
+                    ],
+                    [
+                        376,
+                        469
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856419,
+            "classId": 13239098,
+            "objectId": null,
+            "description": "19",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Tennis_ball",
+            "points": {
+                "exterior": [
+                    [
+                        907,
+                        227
+                    ],
+                    [
+                        1004,
+                        332
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856420,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "20",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        398,
+                        673
+                    ],
+                    [
+                        472,
+                        757
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856421,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "21",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        622,
+                        729
+                    ],
+                    [
+                        686,
+                        799
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856422,
+            "classId": 13239098,
+            "objectId": null,
+            "description": "22",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Tennis_ball",
+            "points": {
+                "exterior": [
+                    [
+                        295,
+                        1036
+                    ],
+                    [
+                        375,
+                        1113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856423,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "23",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        1022
+                    ],
+                    [
+                        895,
+                        1072
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856424,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "24",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        127,
+                        1458
+                    ],
+                    [
+                        219,
+                        1552
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856425,
+            "classId": 13239097,
+            "objectId": null,
+            "description": "25",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        834,
+                        1337
+                    ],
+                    [
+                        884,
+                        1385
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1577856426,
+            "classId": 13239099,
+            "objectId": null,
+            "description": "26",
+            "geometryType": "rectangle",
+            "labelerLogin": "Gianmy12",
+            "createdAt": "2024-07-14T08:13:14.081Z",
+            "updatedAt": "2024-07-14T08:13:14.081Z",
+            "tags": [],
+            "classTitle": "Trunk",
+            "points": {
+                "exterior": [
+                    [
+                        547,
+                        1772
+                    ],
+                    [
+                        575,
+                        1871
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
