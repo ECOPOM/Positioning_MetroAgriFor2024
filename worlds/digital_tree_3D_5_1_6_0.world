@@ -62,7 +62,7 @@
             <scale>1.09 1.09 1.09</scale>
             <link name="1_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.4883856052013261 0.1165894642857143 1.9227381380650312 0 0 0</pose>
+              <pose frame=""> 0.47630717652219445 0.055 1.9246529425742622 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -72,7 +72,7 @@
             <scale>1.0 0.93 0.87</scale>
             <link name="2_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.0021843818427129576 0.12798 1.9127747385303984 0 0 0</pose>
+              <pose frame=""> -0.0024804569440672886 0.08898 1.9114772034153176 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -82,7 +82,7 @@
             <scale>1.02 0.93 0.87</scale>
             <link name="3_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.4838469239589015 0.141895 1.8941624928673382 0 0 0</pose>
+              <pose frame=""> -0.4631511829097341 0.119895 1.882043324469841 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -92,7 +92,7 @@
             <scale>1.07 1.02 0.93</scale>
             <link name="4_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.4844263058016146 0.099575 1.585576843966168 0 0 0</pose>
+              <pose frame=""> 0.4742544139211614 0.039 1.5990157733611097 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -102,7 +102,7 @@
             <scale>0.98 0.99 0.87</scale>
             <link name="5_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.0 0.10175999999999999 1.599250944101089 0 0 0</pose>
+              <pose frame=""> -0.0001024102221602483 0.039 1.6152880511930872 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -112,7 +112,7 @@
             <scale>0.9 0.9 0.89</scale>
             <link name="6_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.48538754211618856 0.08987 1.5997581350224452 0 0 0</pose>
+              <pose frame=""> -0.4802114342436497 0.036 1.6139768927651894 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -122,7 +122,7 @@
             <scale>1.02 0.97 0.83</scale>
             <link name="7_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.48608130580161457 0.092225 1.290393722435849 0 0 0</pose>
+              <pose frame=""> 0.4817085537566145 0.036 1.3083386404013877 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -132,7 +132,7 @@
             <scale>1.09 1.09 1.09</scale>
             <link name="8_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.0010921909213564788 0.059 1.2827142581501347 0 0 0</pose>
+              <pose frame=""> -0.0009527386552956649 0.02 1.3019410791869654 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -142,7 +142,7 @@
             <scale>1.07 1.05 0.93</scale>
             <link name="9_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.47468658750940623 0.047 1.2755096223009277 0 0 0</pose>
+              <pose frame=""> -0.4770489855636206 0.02 1.2953004858905426 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -152,7 +152,7 @@
             <scale>0.83 0.78 0.73</scale>
             <link name="10_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.4918413058016146 0.07352500000000001 0.9831065007706091 0 0 0</pose>
+              <pose frame=""> 0.49217493086390757 0.016 1.0021144945241955 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -162,7 +162,7 @@
             <scale>1.16 1.14 1.05</scale>
             <link name="11_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.0010921909213564788 0.11522 0.9560614460289054 0 0 0</pose>
+              <pose frame=""> 0.0009134125487145219 0.042 0.9768884366633168 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -172,7 +172,7 @@
             <scale>1.0 0.96 0.87</scale>
             <link name="12_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.47469720566669327 0.103895 0.9703939733997573 0 0 0</pose>
+              <pose frame=""> -0.47221544233888424 0.023 0.9909749856594807 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -182,7 +182,7 @@
             <scale>1.15 1.12 1.0</scale>
             <link name="13_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.48643006948704043 0.063 0.6563067517345171 0 0 0</pose>
+              <pose frame=""> 0.48295437249088086 0.029 0.6781042576672266 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -192,7 +192,7 @@
             <scale>0.96 0.95 0.88</scale>
             <link name="14_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.003276572764069437 0.08456 0.6631133244985866 0 0 0</pose>
+              <pose frame=""> 0.0034064314180238214 0.016 0.6799330935544684 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -202,7 +202,7 @@
             <scale>1.09 1.09 1.09</scale>
             <link name="15_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.472002741380979 0.047 0.6547044783701594 0 0 0</pose>
+              <pose frame=""> -0.47229744609424074 0.023 0.6739184292350117 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -212,7 +212,7 @@
             <scale>1.11 1.1 0.97</scale>
             <link name="16_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.21245295730520775 0.338905 2.075862758576583 0 0 0</pose>
+              <pose frame=""> 0.17280072240611216 0.319905 1.9267050968260138 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -222,7 +222,7 @@
             <scale>0.81 0.82 0.7</scale>
             <link name="17_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.14506459281025422 0.34058 2.092795285947435 0 0 0</pose>
+              <pose frame=""> -0.11829163449612118 0.32658 1.9317970988872346 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -232,7 +232,7 @@
             <scale>0.99 0.95 0.85</scale>
             <link name="18_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.18550161150722635 0.142425 1.6678167812251907 0 0 0</pose>
+              <pose frame=""> 0.17559047228317912 0.11142500000000001 1.6653433810250355 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -242,7 +242,7 @@
             <scale>1.09 1.09 1.09</scale>
             <link name="19_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.417393195313155 0.5775894642857143 1.8331784825138002 0 0 0</pose>
+              <pose frame=""> -0.27527439192295633 0.5545894642857143 1.607391766138193 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -252,7 +252,7 @@
             <scale>1.08 1.05 0.97</scale>
             <link name="20_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.0865088104278562 0.458585 1.361509896009446 0 0 0</pose>
+              <pose frame=""> 0.05776956676183276 0.435585 1.3300811601150175 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -262,7 +262,7 @@
             <scale>1.08 1.0 0.97</scale>
             <link name="21_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.08552661950649972 0.25797000000000003 1.306965349941622 0 0 0</pose>
+              <pose frame=""> -0.07398218615369938 0.20296999999999998 1.3071547629596485 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -272,7 +272,7 @@
             <scale>1.09 1.09 1.09</scale>
             <link name="22_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.19677062919914626 0.3705894642857143 0.9659788909567558 0 0 0</pose>
+              <pose frame=""> 0.15707770928110626 0.3415894642857143 1.009089010264448 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -282,7 +282,7 @@
             <scale>0.79 0.79 0.8</scale>
             <link name="23_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.32904266759814266 0.28575 1.0050097010404513 0 0 0</pose>
+              <pose frame=""> -0.2890558346972177 0.20475 1.035649353539651 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -292,7 +292,7 @@
             <scale>1.02 0.93 0.87</scale>
             <link name="24_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.37572002274461014 0.543895 0.5027112590591843 0 0 0</pose>
+              <pose frame=""> 0.24842451560699577 0.526895 0.7092546267063751 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -302,7 +302,7 @@
             <scale>0.93 0.9 0.82</scale>
             <link name="25_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.3140807583845779 0.20887 0.6604895608131607 0 0 0</pose>
+              <pose frame=""> -0.29543241268082165 0.12986999999999999 0.7066643398593089 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
