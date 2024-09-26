@@ -1,4 +1,4 @@
-image,setup,Trunk-Cam_dist[mm],ObjType,Position,FSize[1],FSize[2],FSize[3],Xgt[m],Ygt[m],Zgt[m],Xestimated[m],Yestimated[m],Zestimated[m],Manhattan[m],Euclidean[m]
+image,setup,Trunk-Cam_dist[mm],ObjType,Position,ObjSizeX,ObjSizeY,ObjSizeZ,Xgt[m],Ygt[m],Zgt[m],Xestimated[m],Yestimated[m],Zestimated[m],Manhattan[m],Euclidean[m]
 color_1_1_0.png,2D,1549.0,Apple,1,0.06909,0.06714,0.059789999999999996,0.465,0.072,1.86,0.465,0.06,1.91,0.05999999999999983,0.050990195135927674
 color_1_1_0.png,2D,1549.0,Apple,2,0.06462999999999999,0.062049999999999994,0.053759999999999995,0.0,0.072,1.863,0.0,0.06,1.913,0.05999999999999983,0.050990195135927674
 color_1_1_0.png,2D,1549.0,Apple,3,0.06987,0.06844,0.06317,-0.465,0.073,1.858,-0.465,0.036,1.878,0.0499999999999998,0.036055512754639786
