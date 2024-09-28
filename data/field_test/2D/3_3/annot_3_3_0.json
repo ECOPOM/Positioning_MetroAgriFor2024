@@ -1,0 +1,140 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 720
+    },
+    "objects": [
+        {
+            "id": 1594879241,
+            "classId": 13378380,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T15:20:19.029Z",
+            "updatedAt": "2024-09-26T15:20:19.029Z",
+            "tags": [],
+            "classTitle": "Trunk",
+            "points": {
+                "exterior": [
+                    [
+                        548,
+                        1070
+                    ],
+                    [
+                        577,
+                        1103
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1594879279,
+            "classId": 13378355,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T15:20:55.918Z",
+            "updatedAt": "2024-09-26T15:20:55.918Z",
+            "tags": [
+                {
+                    "id": 230041790,
+                    "tagId": 32769841,
+                    "name": "FTag",
+                    "value": "3",
+                    "labelerLogin": "Mattia_13",
+                    "createdAt": "2024-09-26T15:21:32.937Z",
+                    "updatedAt": "2024-09-26T15:21:32.937Z"
+                }
+            ],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        278,
+                        824
+                    ],
+                    [
+                        326,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1594879291,
+            "classId": 13378355,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T15:21:06.914Z",
+            "updatedAt": "2024-09-26T15:21:06.914Z",
+            "tags": [
+                {
+                    "id": 230041791,
+                    "tagId": 32769841,
+                    "name": "FTag",
+                    "value": "2",
+                    "labelerLogin": "Mattia_13",
+                    "createdAt": "2024-09-26T15:21:40.908Z",
+                    "updatedAt": "2024-09-26T15:21:40.908Z"
+                }
+            ],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        396,
+                        547
+                    ],
+                    [
+                        446,
+                        603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1594879311,
+            "classId": 13378355,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T15:21:23.803Z",
+            "updatedAt": "2024-09-26T15:21:23.803Z",
+            "tags": [
+                {
+                    "id": 230041792,
+                    "tagId": 32769841,
+                    "name": "FTag",
+                    "value": "1",
+                    "labelerLogin": "Mattia_13",
+                    "createdAt": "2024-09-26T15:21:50.963Z",
+                    "updatedAt": "2024-09-26T15:21:50.963Z"
+                }
+            ],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        248
+                    ],
+                    [
+                        265,
+                        293
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

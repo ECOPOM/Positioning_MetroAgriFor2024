@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1280,
+        "width": 720
+    },
+    "objects": [
+        {
+            "id": 1594876966,
+            "classId": 13378302,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T14:37:19.994Z",
+            "updatedAt": "2024-09-26T14:37:19.994Z",
+            "tags": [],
+            "classTitle": "Trunk",
+            "points": {
+                "exterior": [
+                    [
+                        413,
+                        1073
+                    ],
+                    [
+                        442,
+                        1087
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1594876986,
+            "classId": 13378277,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T14:37:42.746Z",
+            "updatedAt": "2024-09-26T14:37:42.746Z",
+            "tags": [
+                {
+                    "id": 230041632,
+                    "tagId": 32769830,
+                    "name": "FTag",
+                    "value": "2",
+                    "labelerLogin": "Mattia_13",
+                    "createdAt": "2024-09-26T14:37:48.179Z",
+                    "updatedAt": "2024-09-26T14:37:48.179Z"
+                }
+            ],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        662
+                    ],
+                    [
+                        317,
+                        694
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1594877039,
+            "classId": 13378277,
+            "objectId": null,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "Mattia_13",
+            "createdAt": "2024-09-26T14:38:31.590Z",
+            "updatedAt": "2024-09-26T14:38:31.590Z",
+            "tags": [
+                {
+                    "id": 230041642,
+                    "tagId": 32769830,
+                    "name": "FTag",
+                    "value": "1",
+                    "labelerLogin": "Mattia_13",
+                    "createdAt": "2024-09-26T14:38:39.119Z",
+                    "updatedAt": "2024-09-26T14:38:39.119Z"
+                }
+            ],
+            "classTitle": "Apple",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        199
+                    ],
+                    [
+                        596,
+                        233
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
