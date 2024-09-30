@@ -253,7 +253,7 @@
                     <geometry>
                         <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://digital_tree/meshes/digital_tree.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/digital_tree/meshes/digital_tree.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -275,7 +275,7 @@
                     <geometry>
                         <mesh>
                         <scale>1 1 1</scale>
-                        <uri>model://digital_tree/meshes/digital_tree.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/digital_tree/meshes/digital_tree.dae</uri>
                         </mesh>
                     </geometry>
                     </visual>
@@ -307,7 +307,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06909 0.06714 0.059789999999999996</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -330,7 +330,7 @@
                         <mesh>
                         <size>0.06909 0.06714 0.059789999999999996</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -368,7 +368,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06462999999999999 0.062049999999999994 0.053759999999999995</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -391,7 +391,7 @@
                         <mesh>
                         <size>0.06462999999999999 0.062049999999999994 0.053759999999999995</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -429,7 +429,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06987 0.06844 0.06317</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -452,7 +452,7 @@
                         <mesh>
                         <size>0.06987 0.06844 0.06317</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -490,7 +490,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06508 0.06317 0.05831</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -513,7 +513,7 @@
                         <mesh>
                         <size>0.06508 0.06317 0.05831</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -551,7 +551,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06464 0.06348 0.061450000000000005</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -574,7 +574,7 @@
                         <mesh>
                         <size>0.06464 0.06348 0.061450000000000005</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -612,7 +612,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.061149999999999996 0.05579 0.05243</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -635,7 +635,7 @@
                         <mesh>
                         <size>0.061149999999999996 0.05579 0.05243</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -673,7 +673,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06658 0.06581000000000001 0.05819</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -696,7 +696,7 @@
                         <mesh>
                         <size>0.06658 0.06581000000000001 0.05819</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -734,7 +734,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06466 0.062380000000000005 0.055600000000000004</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -757,7 +757,7 @@
                         <mesh>
                         <size>0.06466 0.062380000000000005 0.055600000000000004</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -795,7 +795,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06486 0.05994 0.05818</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -818,7 +818,7 @@
                         <mesh>
                         <size>0.06486 0.05994 0.05818</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -856,7 +856,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06336 0.05915 0.05507</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -879,7 +879,7 @@
                         <mesh>
                         <size>0.06336 0.05915 0.05507</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -917,7 +917,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06173 0.06082 0.05551</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -940,7 +940,7 @@
                         <mesh>
                         <size>0.06173 0.06082 0.05551</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -978,7 +978,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06436 0.061149999999999996 0.05579</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -1001,7 +1001,7 @@
                         <mesh>
                         <size>0.06436 0.061149999999999996 0.05579</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -1039,7 +1039,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06284000000000001 0.06124 0.05547</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -1062,7 +1062,7 @@
                         <mesh>
                         <size>0.06284000000000001 0.06124 0.05547</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -1100,7 +1100,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06412000000000001 0.06431 0.05933</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -1123,7 +1123,7 @@
                         <mesh>
                         <size>0.06412000000000001 0.06431 0.05933</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
@@ -1161,7 +1161,7 @@
                         <mesh>
                         <scale>1 1 1</scale>
                         <size>0.06418 0.06325 0.055560000000000005</size>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -1184,7 +1184,7 @@
                         <mesh>
                         <size>0.06418 0.06325 0.055560000000000005</size>
                         <scale>1 1 1</scale>
-                        <uri>model://apple/meshes/apple.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
                         </mesh>
                     </geometry>
                     <material>
