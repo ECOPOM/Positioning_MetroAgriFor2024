@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sdf version="1.6">
-  <world name="4_4">
+  <world name="3_2">
     <light name="sun" type="directional">
             <cast_shadows>1</cast_shadows>
             <pose frame="">0 0 10 0 -0 0</pose>
@@ -63,7 +63,7 @@
             <scale>1.08 1.08 1.08</scale>
             <link name="3_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.068 0.478 50.528 0 0 0</pose>
+              <pose frame=""> 0.468 0.04 50.428 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -180,7 +180,7 @@
                         </mesh>
                     </geometry>
                     <material>
-                        <ambient>0.4235294117647059 0.22549019607843138 0.09019607843137255 1.0</ambient>
+                        <ambient>0.33725490196078434 0.2901960784313726 0.2627450980392157 1.0</ambient>
                         <diffuse>0.7 0.9 0 1</diffuse>
                         <specular>0.2 0.2 0.2 64</specular>
                         <emissive>0.1 0 0.1 1</emissive>

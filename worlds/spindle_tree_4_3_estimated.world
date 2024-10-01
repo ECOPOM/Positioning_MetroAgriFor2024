@@ -46,10 +46,10 @@
                 <direction>1 0 0.5</direction>
             </light>
          
-            <model name="spindle_tree">
+            <model name="planar_tree">
                 <pose frame="">0 0 0 0 0 1.57</pose>
                 <scale>1 1 1</scale>
-                <link name="spindle_tree_link">
+                <link name="planar_tree_link">
                 <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
                 <pose frame=""> 0 0 0 0 0 3.14</pose>
                 <velocity>0 0 0 0 0 0</velocity>
@@ -63,29 +63,7 @@
             <scale>1.08 1.08 1.08</scale>
             <link name="3_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.168 0.448 0.798 0 0 0</pose>
-              <velocity>0 0 0 0 0 0</velocity>
-              <acceleration>0 0 0 0 0 0</acceleration>
-              <wrench>0 0 0 0 -0 0</wrench>
-            </link>
-          </model><model name="2">
-            <pose frame="">0 0 0 0 0 0</pose>
-            <size>0.065 0.065 0.065</size>
-            <scale>1.08 1.08 1.08</scale>
-            <link name="2_link">
-              <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.267 0.218 1.158 0 0 0</pose>
-              <velocity>0 0 0 0 0 0</velocity>
-              <acceleration>0 0 0 0 0 0</acceleration>
-              <wrench>0 0 0 0 -0 0</wrench>
-            </link>
-          </model><model name="1">
-            <pose frame="">0 0 0 0 0 0</pose>
-            <size>0.065 0.065 0.065</size>
-            <scale>1.08 1.08 1.08</scale>
-            <link name="1_link">
-              <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.0 0.328 1.938 0 0 0</pose>
+              <pose frame=""> 0.168 0.448 50.498 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -101,8 +79,8 @@
     <gravity>0 0 -9.8</gravity>
     <magnetic_field>6e-06 2.3e-05 -4.2e-05</magnetic_field>
     <atmosphere type="adiabatic"/>
-    <model name="spindle_tree">
-                <link name="spindle_tree_link">
+    <model name="planar_tree">
+                <link name="planar_tree_link">
                     <pose frame="">0 0 0 0 -0 0</pose>
                     <inertial>
                     <pose frame="">0 0 0 0 -0 0</pose>
@@ -116,12 +94,12 @@
                         <izz>1000</izz>
                     </inertia>
                     </inertial>
-                    <collision name="spindle_tree_link_collision">
+                    <collision name="planar_tree_link_collision">
                     <pose frame="">0 0 0 0 -0 0</pose>
                     <geometry>
                         <mesh>
                         <scale>1 1 1</scale>
-                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/spindle_tree/meshes/spindle3D.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/planar_tree/meshes/planar2D.dae</uri>
                         </mesh>
                     </geometry>
                     <max_contacts>10</max_contacts>
@@ -138,12 +116,12 @@
                         </friction>
                     </surface>
                     </collision>
-                    <visual name="spindle_tree_link_visual">
+                    <visual name="planar_tree_link_visual">
                     <pose frame="">0 0 0 0 -0 0</pose>
                     <geometry>
                         <mesh>
                         <scale>1 1 1</scale>
-                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/spindle_tree/meshes/spindle3D.dae</uri>
+                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/planar_tree/meshes/planar2D.dae</uri>
                         </mesh>
                     </geometry>
                     </visual>
@@ -203,128 +181,6 @@
                     </geometry>
                     <material>
                         <ambient>0.5607843137254902 0.3137254901960784 0.12156862745098039 1.0</ambient>
-                        <diffuse>0.7 0.9 0 1</diffuse>
-                        <specular>0.2 0.2 0.2 64</specular>
-                        <emissive>0.1 0 0.1 1</emissive>
-                    </material>
-                    </visual>
-                    <self_collide>0</self_collide>
-                    <enable_wind>0</enable_wind>
-                    <kinematic>0</kinematic>
-                </link>
-                <static>1</static>
-                <pose frame="">0 0 0 0 -0 0</pose>
-            </model>
-    <model name="2">
-                <link name="2_link">
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <inertial>
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <mass>0.0050968399592252805</mass>
-                    <inertia>
-                        <ixx>1000</ixx>
-                        <ixy>1000</ixy>
-                        <ixz>1000</ixz>
-                        <iyy>1000</iyy>
-                        <iyz>1000</iyz>
-                        <izz>1000</izz>
-                    </inertia>
-                    </inertial>
-                    <collision name="2_link_collision">
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <geometry>
-                        <mesh>
-                        <scale>1 1 1</scale>
-                        <size>0.065 0.065 0.065</size>
-                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
-                        </mesh>
-                    </geometry>
-                    <max_contacts>10</max_contacts>
-                    <surface>
-                        <contact>
-                        <ode/>
-                        </contact>
-                        <bounce/>
-                        <friction>
-                        <torsional>
-                            <ode/>
-                        </torsional>
-                        <ode/>
-                        </friction>
-                    </surface>
-                    </collision>
-                    <visual name="2_link_visual">
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <geometry>
-                        <mesh>
-                        <size>0.065 0.065 0.065</size>
-                        <scale>1 1 1</scale>
-                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
-                        </mesh>
-                    </geometry>
-                    <material>
-                        <ambient>0.4843137254901961 0.12156862745098039 0.06274509803921569 1.0</ambient>
-                        <diffuse>0.7 0.9 0 1</diffuse>
-                        <specular>0.2 0.2 0.2 64</specular>
-                        <emissive>0.1 0 0.1 1</emissive>
-                    </material>
-                    </visual>
-                    <self_collide>0</self_collide>
-                    <enable_wind>0</enable_wind>
-                    <kinematic>0</kinematic>
-                </link>
-                <static>1</static>
-                <pose frame="">0 0 0 0 -0 0</pose>
-            </model>
-    <model name="1">
-                <link name="1_link">
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <inertial>
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <mass>0.0050968399592252805</mass>
-                    <inertia>
-                        <ixx>1000</ixx>
-                        <ixy>1000</ixy>
-                        <ixz>1000</ixz>
-                        <iyy>1000</iyy>
-                        <iyz>1000</iyz>
-                        <izz>1000</izz>
-                    </inertia>
-                    </inertial>
-                    <collision name="1_link_collision">
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <geometry>
-                        <mesh>
-                        <scale>1 1 1</scale>
-                        <size>0.065 0.065 0.065</size>
-                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
-                        </mesh>
-                    </geometry>
-                    <max_contacts>10</max_contacts>
-                    <surface>
-                        <contact>
-                        <ode/>
-                        </contact>
-                        <bounce/>
-                        <friction>
-                        <torsional>
-                            <ode/>
-                        </torsional>
-                        <ode/>
-                        </friction>
-                    </surface>
-                    </collision>
-                    <visual name="1_link_visual">
-                    <pose frame="">0 0 0 0 -0 0</pose>
-                    <geometry>
-                        <mesh>
-                        <size>0.065 0.065 0.065</size>
-                        <scale>1 1 1</scale>
-                        <uri>file:///media/mirko/Volume/GITHUB/Positioning_MetroAgriFor2024/models/apple/meshes/apple.dae</uri>
-                        </mesh>
-                    </geometry>
-                    <material>
-                        <ambient>0.9647058823529412 0.5745098039215686 0.3764705882352941 1.0</ambient>
                         <diffuse>0.7 0.9 0 1</diffuse>
                         <specular>0.2 0.2 0.2 64</specular>
                         <emissive>0.1 0 0.1 1</emissive>

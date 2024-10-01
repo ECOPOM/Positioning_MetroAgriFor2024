@@ -63,7 +63,7 @@
             <scale>1.08 1.08 1.08</scale>
             <link name="3_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.368 0.138 0.938 0 0 0</pose>
+              <pose frame=""> -0.368 0.138 50.438 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -74,7 +74,7 @@
             <scale>1.08 1.08 1.08</scale>
             <link name="2_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> -0.267 0.01 1.378 0 0 0</pose>
+              <pose frame=""> 0.267 0.01 50.878 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
@@ -85,7 +85,7 @@
             <scale>1.08 1.08 1.08</scale>
             <link name="3_link">
               <!-- TO MODIFY THE POSITION OF THE OBJ ON THE LOCAL MAP USE THIS POSE -->
-              <pose frame=""> 0.068 0.057 2.057 0 0 0</pose>
+              <pose frame=""> -0.068 0.057 51.558 0 0 0</pose>
               <velocity>0 0 0 0 0 0</velocity>
               <acceleration>0 0 0 0 0 0</acceleration>
               <wrench>0 0 0 0 -0 0</wrench>
